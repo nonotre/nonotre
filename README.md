@@ -8,6 +8,7 @@ Product Designer and Design Engineer with 8+ years in design. I design in Figma 
 
 ## Public projects
 
+- **[Nexflow](https://github.com/nonotre/Nexflow)**: a project management concept with a Kanban board, performance scores and an AI assistant panel ([live demo](https://nexflow-plum.vercel.app)). Next.js, TypeScript, shadcn/ui.
 - **[BeautifulGameHistory](https://github.com/nonotre/BeautifulGameHistory)**: an interactive history of video games through five milestones, built with the ICMC-USP Computer Museum ([live site](https://historyofvideogames.nonotre.com)). I did the art direction and UX/UI design and built the front end (Next.js, TypeScript, Tailwind).
 - **[GAIA](https://github.com/nonotre/GAIA)**: 1st place at the Radix Hackathon 2026. A geospatial platform that estimates distributed energy generation potential (Python, with IBGE, ANEEL and Google Open Buildings data).
 - **[usp-oac-trabalho](https://github.com/nonotre/usp-oac-trabalho)**: a game written in Assembly for the ICMC Processor, built for a computer organization course.
